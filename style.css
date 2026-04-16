@@ -240,6 +240,7 @@ nav ul li a:hover::after{
     padding: 10px 5px;
     position: relative;
     overflow: hidden;
+    height: 220px;
 }
 
 .work img {
@@ -266,7 +267,7 @@ nav ul li a:hover::after{
     flex-direction: column;
     padding: 0 40px;
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     transition: height 0.5s;
 }
 
